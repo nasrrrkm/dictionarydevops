@@ -3,12 +3,12 @@
 
 ---
 
-## 📝 Project Overview & Problem Statement
+##  Project Overview & Problem Statement
 The primary purpose of this project is to automate the software development lifecycle (SDLC) by building a comprehensive automated development and deployment process. The pipeline covers everything from code modification by the developer to remote repository hosting, continuous integration via Jenkins, and containerized delivery using Docker.
 
 ---
 
-## 🛠️ System Architecture & Components
+##  System Architecture & Components
 As requested in the project guidelines, the architecture implements a full automation loop consisting of the following key stages:
 
 1. **Application Server & Environment:** A virtual environment/server configured with a LAMP stack (Apache, PHP 8.2, and MySQL Database) to host and serve the application.
